@@ -1,4 +1,5 @@
 nihao,i am..
-hello£¬hi
+helloÂ£Â¬hi
 new new
 tttttt
+hiegeges
